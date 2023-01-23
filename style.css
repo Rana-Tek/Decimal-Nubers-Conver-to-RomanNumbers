@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://www.wallpaperflare.com/static/308/919/649/marks-numerals-roman-background-wallpaper-preview.jpg);
+}
+
+.convert{
+    padding: 0.5rem 2rem;
+    font-size: 2rem;
+    border: 2px solid;
+    border-radius: 1.75rem;
+    font-weight: 900;
+    color: rgb(207, 18, 25);
+    background-color: #001a43;
+    margin-bottom: 3rem;
+}
+.convert:hover{
+    color: white;
+    background-color: #001a43;
+}
+
+.play{
+    color:#bba8b9;
+    background-color: #001a43;
+    width: 80%;
+    height: 5rem;
+    border: 2px solid red;
+    border-radius: 1.75rem;
+    padding: 0.5rem 2rem;
+}
